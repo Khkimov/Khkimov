@@ -1,4 +1,4 @@
-## Hi, my name is Ilyas! I`m Fullstack Developer.
+## Hi, my name is Ilyas! I`m Frontend Developer.
 
 My skills:
 

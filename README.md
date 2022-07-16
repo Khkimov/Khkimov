@@ -20,6 +20,7 @@ BACKEND:
 ![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=for-the-badge&logo=sequelize)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest)
 ![eslint](https://img.shields.io/badge/-eslint-black?style=for-the-badge&logo=eslint)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 
 Contacts: Khakim198765@gmail.com,  Telegram: https://t.me/ilyas_khakimov 

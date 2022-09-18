@@ -6,9 +6,8 @@ My skills:
 FRONTEND:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux)
-![Mobx](https://img.shields.io/badge/-Mobx-black?style=for-the-badge&logo=mobx)
+![Vue](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=vue.js)
+![Vuex](https://img.shields.io/badge/-vuex-black?style=for-the-badge&logo=vuex)
 ![html](https://img.shields.io/badge/-html5-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
 ![SCSS](https://img.shields.io/badge/-sass-black?style=for-the-badge&logo=sass)
@@ -21,6 +20,7 @@ BACKEND:
 ![Jest](https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest)
 ![eslint](https://img.shields.io/badge/-eslint-black?style=for-the-badge&logo=eslint)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
 
 
 Contacts: Khakim198765@gmail.com,  Telegram: https://t.me/ilyas_khakimov 

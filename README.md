@@ -15,6 +15,7 @@ FRONTEND:
 BACKEND:
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
 ![Exppress](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
+![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=for-the-badge&logo=nest.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgreSQL)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=for-the-badge&logo=sequelize)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest)
